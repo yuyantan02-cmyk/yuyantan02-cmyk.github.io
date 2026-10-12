@@ -1,0 +1,40 @@
+{
+  "world_id": "a70cc9bc-696b-4504-aad2-3520e80e6bb2",
+  "display_name": "",
+  "tags": null,
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/a70cc9bc-696b-4504-aad2-3520e80e6bb2/515ca25e.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/a70cc9bc-696b-4504-aad2-3520e80e6bb2/97e0d256-b240-4125-bf23-b4c4826d062b_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/a70cc9bc-696b-4504-aad2-3520e80e6bb2/39d8c8e9-7083-4be7-aa9e-730545d34a84_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/a70cc9bc-696b-4504-aad2-3520e80e6bb2/10f08e08-0283-4e4a-bf90-f7158448f4cf_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/a70cc9bc-696b-4504-aad2-3520e80e6bb2/76500a9d-9751-47f4-b992-7d6847bc6027_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/a70cc9bc-696b-4504-aad2-3520e80e6bb2/dc9c18df-b070-46eb-b137-452e698c4afe_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.6483507,
+        "ground_plane_offset": 1.3216511
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/a70cc9bc-696b-4504-aad2-3520e80e6bb2/02b2305e-83ad-45d7-9bee-cc4ae8422734_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a sophisticated and modern living room, captured in a photorealistic style, exuding an inviting and serene atmosphere. The overall tone is one of refined comfort and contemporary elegance. A deep charcoal rounded textured sofa with white and orange cushions and a cream knit throw occupies the left foreground, accompanied by a small wood side table and a cream pouf. In front of the sofa, a large pale cream patterned rug stretches across the floor, centered with a low round light stone coffee table adorned with red flowers. Beyond the sofa, a single black-and-white patterned lounge chair is visible, complemented by a curved black floor lamp with a warm shade. Across the rear of the room, a large black-framed window and glass door are draped with sheer cream curtains and beige drapes, allowing cool daylight to illuminate leafy plants and visible courtyard greenery. On the right, a flat-screen TV is centered on a cream paneled wall, positioned above a long black-and-cream geometric media console. Warm wall sconces and a small glowing table lamp flank the television, leading to dark tall built-in cabinetry at the far right. Above, a delicate lit crystal chandelier hangs from the ceiling, which also features recessed lighting and a long linear HVAC grille. The floor is composed of matte pale tiles, and translucent curtains allow for subtle light diffusion, while physically plausible soft shadows are cast by objects throughout the room, creating a balanced interplay of light and shade. The 360 scene is faultless."
+  },
+  "created_at": null,
+  "updated_at": null,
+  "permission": {
+    "public": false,
+    "allowed_readers": [],
+    "allowed_writers": [],
+    "allow_id_access": false
+  },
+  "world_prompt": null,
+  "world_marble_url": "https://marble.worldlabs.ai/world/a70cc9bc-696b-4504-aad2-3520e80e6bb2",
+  "model": null
+}
