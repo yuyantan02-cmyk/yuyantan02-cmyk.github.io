@@ -1,0 +1,40 @@
+{
+  "world_id": "8b8b056a-8c82-4813-b9e3-22861d8ae264",
+  "display_name": "",
+  "tags": null,
+  "assets": {
+    "mesh": {
+      "collider_mesh_url": "https://cdn.marble.worldlabs.ai/8b8b056a-8c82-4813-b9e3-22861d8ae264/769e432f.glb",
+      "hq_mesh_url": null,
+      "full_res_mesh_url": null
+    },
+    "imagery": {
+      "pano_url": "https://cdn.marble.worldlabs.ai/8b8b056a-8c82-4813-b9e3-22861d8ae264/be5e5936-97ee-4a6b-828d-2d7a8c188c6c_panos/rgb_0.png"
+    },
+    "splats": {
+      "spz_urls": {
+        "500k": "https://cdn.marble.worldlabs.ai/8b8b056a-8c82-4813-b9e3-22861d8ae264/87df7477-8283-43d7-b618-ffd67001836a_ceramic_500k.spz",
+        "100k": "https://cdn.marble.worldlabs.ai/8b8b056a-8c82-4813-b9e3-22861d8ae264/3d5942eb-b9b3-484f-b9fc-a783751d232b_dust_100k.spz",
+        "150k": "https://cdn.marble.worldlabs.ai/8b8b056a-8c82-4813-b9e3-22861d8ae264/17b7359c-0416-4c93-879e-22b542608507_ceramic_150k.spz",
+        "full_res": "https://cdn.marble.worldlabs.ai/8b8b056a-8c82-4813-b9e3-22861d8ae264/2bb222dd-7461-403f-a735-ea19f9bb5fef_ceramic.spz"
+      },
+      "semantics_metadata": {
+        "metric_scale_factor": 1.0067161,
+        "ground_plane_offset": 1.269586
+      }
+    },
+    "thumbnail_url": "https://cdn.marble.worldlabs.ai/8b8b056a-8c82-4813-b9e3-22861d8ae264/4cc63ba6-ff30-43f7-a129-f7a3e06a377e_sand_mpi/thumbnail.webp",
+    "caption": "The scene is a meticulously detailed anime-style bedroom, rendered with soft, hand-painted textures and a gentle, serene atmosphere. The overall tone is peaceful and inviting, bathed in warm, natural sunlight that casts gentle shadows across the pastel lavender walls and natural wood trim. The room is designed for comfort and personal expression, evident in the various items that fill the space. A low lavender bed, neatly made and adorned with a plump cat plush, occupies the left side of the room, suggesting a peaceful resting place. To the right of the bed, a square wooden low table rests on a pale rug, forming the central focal point of the floor area. Directly behind the table, a large curtained window, centered on the rear wall, allows ample daylight to stream into the room, illuminating the interior softly. Beneath this window, a pale manga cabinet is neatly arranged, housing a collection of books. Further to the right, a tall pale bookcase is filled with an assortment of books and decorative items, standing adjacent to a rounded CRT television placed on a dark console. Various posters adorn the walls throughout the room, adding vibrant splashes of character and personal taste. A wall-mounted air conditioner unit is positioned above the window, ensuring comfort within the space. A skateboard leans against the wall in the left foreground, alongside a blue duffel bag, indicating a blend of leisure and utility. The natural wood trim outlines the room's architecture, including the window frame and door jambs, providing a consistent aesthetic. The wooden floor, visible throughout the room, contributes to the warm and inviting ambiance. The 360 scene is faultless."
+  },
+  "created_at": null,
+  "updated_at": null,
+  "permission": {
+    "public": false,
+    "allowed_readers": [],
+    "allowed_writers": [],
+    "allow_id_access": false
+  },
+  "world_prompt": null,
+  "world_marble_url": "https://marble.worldlabs.ai/world/8b8b056a-8c82-4813-b9e3-22861d8ae264",
+  "model": null
+}

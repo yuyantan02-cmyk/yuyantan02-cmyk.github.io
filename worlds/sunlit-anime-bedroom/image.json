@@ -1,0 +1,233 @@
+{
+  "schema_version": 1,
+  "world": "sunlit-anime-bedroom",
+  "source_images": [
+    "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png"
+  ],
+  "scene_name": "Sunlit Anime Bedroom",
+  "short_caption": "A compact anime-style bedroom with bed, books, low table, and television.",
+  "literal_description": "A compact bedroom has a large curtained window centered on the far wall. A low bed with a lavender cover fills the left foreground. A small wooden table sits in the center on a pale rug. Bookshelves and a CRT television occupy the right side. Posters, a wall-mounted air conditioner, books, small toys, and a skateboard add detail. The view looks diagonally into the room toward the window.",
+  "environment": "Small bedroom with pale lavender walls, wood trim and floor, a central window, wall posters, and low furniture.",
+  "visual_style": "Soft anime background painting, stylized 3D, pastel colors, gentle edges.",
+  "lighting": "Strong warm daylight enters from the rear window, casting bright patches on the bed and floor; soft warm interior fill.",
+  "atmosphere": "Clean indoor air with soft daylight haze near the window.",
+  "ambient_sound": "A quiet air-conditioner hum.",
+  "objects": [
+    {
+      "id": "bed",
+      "name": "single bed",
+      "description": "Low wooden single bed with a lavender blanket and pale pillows.",
+      "count_estimate": 1,
+      "materials": [
+        "wood",
+        "fabric"
+      ],
+      "source_images": [
+        "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png"
+      ],
+      "evidence": [
+        {
+          "image": "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png",
+          "location_in_image": "lower left"
+        }
+      ],
+      "generate_as_3d_object": true
+    },
+    {
+      "id": "low-table",
+      "name": "low table",
+      "description": "Small square light-wood table with four straight legs.",
+      "count_estimate": 1,
+      "materials": [
+        "light wood"
+      ],
+      "source_images": [
+        "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png"
+      ],
+      "evidence": [
+        {
+          "image": "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png",
+          "location_in_image": "lower center"
+        }
+      ],
+      "generate_as_3d_object": true
+    },
+    {
+      "id": "crt-tv",
+      "name": "CRT television",
+      "description": "Gray rounded cathode-ray television with a dark screen.",
+      "count_estimate": 1,
+      "materials": [
+        "gray plastic",
+        "glass"
+      ],
+      "source_images": [
+        "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png"
+      ],
+      "evidence": [
+        {
+          "image": "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png",
+          "location_in_image": "lower right"
+        }
+      ],
+      "generate_as_3d_object": true
+    },
+    {
+      "id": "tv-console",
+      "name": "TV console",
+      "description": "Dark wooden low open cabinet below the television.",
+      "count_estimate": 1,
+      "materials": [
+        "dark wood"
+      ],
+      "source_images": [
+        "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png"
+      ],
+      "evidence": [
+        {
+          "image": "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png",
+          "location_in_image": "lower right"
+        }
+      ],
+      "generate_as_3d_object": true
+    },
+    {
+      "id": "bookcase",
+      "name": "bookcase",
+      "description": "Tall pale shelving unit filled with books and small boxes.",
+      "count_estimate": 1,
+      "materials": [
+        "painted wood",
+        "paper"
+      ],
+      "source_images": [
+        "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png"
+      ],
+      "evidence": [
+        {
+          "image": "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png",
+          "location_in_image": "right of window"
+        }
+      ],
+      "generate_as_3d_object": true
+    },
+    {
+      "id": "manga-shelf",
+      "name": "manga shelf",
+      "description": "Low pale cabinet containing rows of books below the window.",
+      "count_estimate": 1,
+      "materials": [
+        "painted wood",
+        "paper"
+      ],
+      "source_images": [
+        "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png"
+      ],
+      "evidence": [
+        {
+          "image": "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png",
+          "location_in_image": "below window"
+        }
+      ],
+      "generate_as_3d_object": true
+    },
+    {
+      "id": "table-lamp",
+      "name": "table lamp",
+      "description": "Small lamp with a pale tapered shade and mint green base.",
+      "count_estimate": 1,
+      "materials": [
+        "fabric",
+        "ceramic"
+      ],
+      "source_images": [
+        "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png"
+      ],
+      "evidence": [
+        {
+          "image": "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png",
+          "location_in_image": "below window"
+        }
+      ],
+      "generate_as_3d_object": true
+    },
+    {
+      "id": "skateboard",
+      "name": "skateboard",
+      "description": "Long tan skateboard with dark wheels leaning against the left wall.",
+      "count_estimate": 1,
+      "materials": [
+        "wood",
+        "rubber"
+      ],
+      "source_images": [
+        "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png"
+      ],
+      "evidence": [
+        {
+          "image": "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png",
+          "location_in_image": "lower left edge"
+        }
+      ],
+      "generate_as_3d_object": true
+    },
+    {
+      "id": "duffel-bag",
+      "name": "duffel bag",
+      "description": "Blue travel bag with gray straps at the foot of the bed.",
+      "count_estimate": 1,
+      "materials": [
+        "blue fabric"
+      ],
+      "source_images": [
+        "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png"
+      ],
+      "evidence": [
+        {
+          "image": "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png",
+          "location_in_image": "bottom left"
+        }
+      ],
+      "generate_as_3d_object": true
+    },
+    {
+      "id": "plush-cat",
+      "name": "cat plush",
+      "description": "Round cream cat-shaped plush toy with brown patches.",
+      "count_estimate": 1,
+      "materials": [
+        "fabric"
+      ],
+      "source_images": [
+        "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png"
+      ],
+      "evidence": [
+        {
+          "image": "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png",
+          "location_in_image": "on bed"
+        }
+      ],
+      "generate_as_3d_object": true
+    },
+    {
+      "id": "headphones",
+      "name": "headphones",
+      "description": "Dark over-ear headphones resting on the center table.",
+      "count_estimate": 1,
+      "materials": [
+        "plastic",
+        "foam"
+      ],
+      "source_images": [
+        "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png"
+      ],
+      "evidence": [
+        {
+          "image": "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png",
+          "location_in_image": "on center table"
+        }
+      ],
+      "generate_as_3d_object": true
+    }
+  ]
+}

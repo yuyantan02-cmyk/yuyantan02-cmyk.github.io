@@ -1,0 +1,26 @@
+{
+  "schema_version": 1,
+  "world": "sunlit-anime-bedroom",
+  "object": {
+    "id": "crt-tv",
+    "name": "CRT television",
+    "description": "Gray rounded cathode-ray television with a dark screen.",
+    "count_estimate": 1,
+    "materials": [
+      "gray plastic",
+      "glass"
+    ],
+    "source_images": [
+      "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png"
+    ],
+    "evidence": [
+      {
+        "image": "worlds/sunlit-anime-bedroom/source/0-anime-bedroom-reference.png",
+        "location_in_image": "lower right"
+      }
+    ],
+    "generate_as_3d_object": true,
+    "working_dir": "worlds/sunlit-anime-bedroom/output/crt-tv"
+  },
+  "updated_at": "2026-10-11T14:21:47.283Z"
+}
